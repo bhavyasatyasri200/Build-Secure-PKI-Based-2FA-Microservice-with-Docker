@@ -1,0 +1,26 @@
+# Node.js dependencies
+node_modules/
+
+# Environment files
+.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / editor files
+.vscode/
+.idea/
+
+# Docker override files (optional)
+docker-compose.override.yml
+
+# Encrypted seed (sensitive)
+encrypted_seed.txt
